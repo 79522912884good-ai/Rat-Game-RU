@@ -1,0 +1,5 @@
+1. распакуйте в C:\Rategame
+2. через поисковик Windows впишиет powershell и откройте её
+3. скопируйте и вставте комманду (низже)
+
+powershell -ExecutionPolicy Bypass -File C:\Rategame\install_ru.ps1
