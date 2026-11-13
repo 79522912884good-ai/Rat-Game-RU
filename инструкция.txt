@@ -2,4 +2,4 @@
 2. через поисковик Windows впишиет powershell и откройте её
 3. скопируйте и вставте комманду (низже)
 
-powershell -ExecutionPolicy Bypass -File C:\Rategame\install_ru.ps1
+powershell -ExecutionPolicy Bypass -File C:\Ratgame\install_ru.ps1
